@@ -1,13 +1,10 @@
 body {
   background-color: #3B5999;
   color: #eee;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 750px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   border-top: 5px solid;
-  border-bottom: 5px solid;
 }
 
 h1 {
@@ -15,18 +12,54 @@ h1 {
   margin-bottom: 0px;
 }
 
-h2 {
-  margin-top: 0px;
+img  {
+  height: 140px;
+  width: 140px;
 }
 
-h1, h2 {
+a {
+  color: #F2BF80;
+}
+
+a:hover {
+  color: #BFB68A;
+}
+
+.resources {
+  font-size: 18px;
   text-align: center;
 }
 
 .heading-group {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 .sub-heading-group {
   font-size: 22px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.snippet {
+  font-family: 'Snippet', sans-serif;
+}
+
+.racing {
+  font-family: 'Racing Sans One', cursive;
+}
+
+.iceland {
+  font-family: 'Iceland', cursive;
+}
+
+.megrim {
+  font-family: 'Megrim', cursive;
+}
+
+.audiowide {
+  font-family: 'Audiowide', cursive;
 }
