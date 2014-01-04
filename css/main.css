@@ -12,6 +12,11 @@ h1 {
   margin-bottom: 0px;
 }
 
+h2 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
 img  {
   height: 140px;
   width: 140px;
@@ -42,18 +47,6 @@ a:hover {
 .center {
   margin-left: auto;
   margin-right: auto;
-}
-
-.snippet {
-  font-family: 'Snippet', sans-serif;
-}
-
-.racing {
-  font-family: 'Racing Sans One', cursive;
-}
-
-.iceland {
-  font-family: 'Iceland', cursive;
 }
 
 .megrim {
