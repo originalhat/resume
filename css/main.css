@@ -33,11 +33,11 @@ h2:first-child {
   font-size: 25px;
 }
 
-#experience h3 {
+section h3 {
   text-align: right;
 }
 
-#experience h3 span:first-child {
+section h3 span:first-child {
   float: left;
 }
 
