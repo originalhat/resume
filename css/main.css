@@ -5,16 +5,13 @@ body {
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   border-top: 5px solid;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
   font-size: 45px;
   margin-bottom: 0px;
-}
-
-h2 {
-  margin-top: 0px;
-  margin-bottom: 20px;
 }
 
 img  {
@@ -30,7 +27,21 @@ a:hover {
   color: #BFB68A;
 }
 
-.resources {
+h2:first-child {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+#experience h3 {
+  text-align: right;
+}
+
+#experience h3 span:first-child {
+  float: left;
+}
+
+footer {
   font-size: 18px;
   text-align: center;
 }
@@ -40,14 +51,7 @@ a:hover {
   text-align: center;
 }
 
-.sub-heading-group {
-  font-size: 22px;
-}
-
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
+/* FONTS */
 
 .megrim {
   font-family: 'Megrim', cursive;
