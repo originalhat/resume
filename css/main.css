@@ -20,7 +20,7 @@ img  {
 }
 
 a {
-  color: #F2BF80;
+  color: #DBB529;
 }
 
 a:hover {
@@ -48,9 +48,8 @@ table tr td {
 }
 
 table tr td:hover {
-  background-color: #BFB68A;
+  background-color: #DBB529;
   color: #333;
-  /*cursor: pointer;*/
 }
 
 section h3 {
