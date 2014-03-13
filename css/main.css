@@ -1,6 +1,6 @@
 body {
   -webkit-font-smoothing: antialiased;
-  background-color: #3D2474;
+  background-color: #2C3F49;
   border-top: 5px solid;
   color: #eee;
   margin-left: auto;
@@ -20,7 +20,7 @@ img  {
 }
 
 a {
-  color: #DBB529;
+  color: #E03B24;
 }
 
 a:hover {
@@ -48,8 +48,8 @@ table tr td {
 }
 
 table tr td:hover {
-  background-color: #DBB529;
-  color: #333;
+  background-color: #E03B24;
+  color: #000;
 }
 
 section h3 {
