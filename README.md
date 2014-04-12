@@ -1,1 +1,1 @@
-Resume visible @ http://devinbrown.github.io/resume/
+Resume visible @ http://obfk.github.io/resume/
