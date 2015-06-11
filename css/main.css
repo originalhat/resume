@@ -62,11 +62,6 @@ table tr td {
   border: 1px solid;
 }
 
-table tr td:hover {
-  background-color: #BD4932;
-  color: #eee;
-}
-
 section h3 {
   text-align: right;
   border-bottom: 1px solid;
