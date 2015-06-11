@@ -19,7 +19,7 @@ body hr {
   margin-bottom: 0px;
 }
 
-.heading-group img  {
+.heading-group img {
   height: 140px;
   width: 140px;
   border: 3px solid;
@@ -46,6 +46,21 @@ h2 .sub-heading {
   margin-top: 0px;
   margin-bottom: 20px;
   font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 0.75rem;
+  border: 0.1rem solid #333;
+  margin: 0.25rem 0 0.25rem 0;
+  font-size: 1.5rem;
+  display: inline-block;
+  text-align: center;
+  min-width: 12rem;
 }
 
 table {
@@ -97,7 +112,7 @@ footer {
 
 @media print {
   .no-print, .no-print * {
-      display: none !important;
+    display: none !important;
   }
 
   table tr {
@@ -106,8 +121,8 @@ footer {
 }
 
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
   table {
     font-size: 13px;
   }
