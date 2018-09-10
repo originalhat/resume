@@ -1,1 +1,1 @@
-Resume visible @ http://originalhat.github.io/resume/
+Resume visible @ https://originalhat.github.io/resume/
